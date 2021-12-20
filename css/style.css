@@ -1,0 +1,26 @@
+.juego-container{
+    background-color: aliceblue;
+    position: absolute;
+    align-items: center;
+}
+.random-container{
+    align-items: center;
+    margin-left: 2px;
+    order: initial;
+    position: static;
+
+}
+.random-container img{
+    width: 80px;
+    height: 80px;
+}
+.alternativa-container img{
+    width: 80px;
+    height: 80px;
+    border-style: double;
+    border-radius: 20%;
+    background-color:darkgrey;
+}
+.alternativa-container{
+    margin-right: 20px;
+}
